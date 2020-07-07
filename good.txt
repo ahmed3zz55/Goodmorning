@@ -1,5 +1,3 @@
 this is a file about any thing you want
-to know
-
-about this repo
-/*this is an added file*/
+to know about this repo
+/*this is added from a sub branch not the master one*/
